@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Manish Chauhan!
 
-**QA Professional | Data Enthusiast | MSc Student @ Swansea University**  
-ISTQB Certified with expertise in automation testing, CI/CD, AWS, and machine learning applications.
+🎓 **Graduated with an MS in Advanced Computer Science** from Swansea University Dec 2024  
+💡 Exploring opportunities to leverage my expertise in QA, automation testing, machine learning, and data-driven solutions.  
+🔭 Actively working on projects involving AI applications, sustainable solutions, and software quality assurance.  
+📝 ISTQB Certified Tester | Skilled in Agile, CI/CD, AWS, Python, SQL, and Machine Learning Basics  
 
-## 🎯 What I Do
-- **Quality Assurance**: Developing and executing test plans, automating workflows, and ensuring software reliability.
-- **Machine Learning**: Applying advanced algorithms like Self-Organizing Maps for classification tasks (e.g., crop type classification using spectral imaging).
-- **Data Analysis & Visualization**: Extracting insights from complex datasets and presenting them effectively.
-- **DevOps Practices**: Streamlining deployment processes with tools like Jenkins, AWS, and Git.
+📫 You can reach me at [manishchauhan12304@gmail.com](mailto:manishchauhan12304@gmail.com)  
+⚡ Fun fact: Outside of tech, I’m passionate about creating music (Trap, Dubstep, and House) and own a range of digital music equipment. I also love traveling, cooking new recipes, and exploring diverse cultures! 🎶✈️🍳  
+
+
 
 
 ## 💻 Skills
@@ -64,64 +65,4 @@ ISTQB Certified with expertise in automation testing, CI/CD, AWS, and machine le
   <img alt="DevOps Practices" src="https://img.shields.io/badge/-DevOps%20Practices-6200EE?style=flat-square&logo=devops&logoColor=white" />
   <img alt="Test Case Design" src="https://img.shields.io/badge/-Test%20Case%20Design-4CAF50?style=flat-square&logo=test-case&logoColor=white" />
 </p>
-
----
-
-## 📚 Education
-
-- **MSc in Advanced Computer Science**  
-  *Swansea University, Swansea, Wales*  
-  Sep 2023 - Dec 2024 | Grade: 2:1
-
-- **BSc in Information Technology**  
-  *University of Mumbai, Mumbai, India*  
-  Jun 2014 - Nov 2017 | Grade: 2:2
-
----
-
-## 🏅 Certifications
-- ISTQB Certified Tester Foundation Level (CTFL) v4.0 - BCS, The Chartered Institute for IT
-- Web Professional - Site Designer (CWP) – Trycatch
-- Network Security Certification - Skynet Secure Solutions
-
----
-
-## 🚀 Projects
-
-### **Land Cover Classification Using CNNs and SVMs**
-- Compared the performance of Convolutional Neural Networks (CNNs) and Support Vector Machines (SVMs) for land cover classification from aerial imagery.
-- Achieved **46.19% accuracy** with CNNs on large images (242x242 pixels).
-- Utilized TensorFlow for CNN implementation and PCA for dimensionality reduction in SVM training.
-- [View Project](https://github.com/yourusername/land-cover-classification)
-
-### **Optimization of Thrust Bearings**
-- Conducted optimization experiments using Random Search and Simulated Annealing algorithms.
-- Improved power loss minimization under axial load conditions.
-- [View Project](https://github.com/yourusername/thrust-bearing-optimization)
-
-### **Security Operations & Incident Management Study**
-- Explored security operations and incident management for a UK Children’s Rights Charity.
-- Analyzed cyber threats, implemented best practices for password security, and designed proactive incident handling strategies.
-- [View Project](https://github.com/yourusername/security-operations-study)
-
----
-
-## 📧 Contact Me
-Feel free to reach out for collaborations, questions, or just to say hi!  
-📧 Email: [manishchauhan12304@gmail.com](mailto:manishchauhan12304@gmail.com)  
-🔗 LinkedIn: [Manish Chauhan](https://www.linkedin.com/in/yourprofile)  
-💻 GitHub: [Manish Chauhan](https://github.com/yourusername)
-
----
-
-## 🌟 Fun Facts About Me
-- Outside of work, I enjoy exploring new technologies and contributing to open-source projects.
-- I love solving puzzles and mental challenges—whether it’s debugging code or cracking riddles!
-- Fun Fact: I’m passionate about sustainable agriculture and its applications in technology.
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/manishchauhan12304/)  
-[![GitHub](https://github.com/suplex97)
 
