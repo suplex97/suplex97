@@ -43,7 +43,6 @@ I’m a **QA Professional** and **Data Enthusiast** with a passion for ensuring 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
----
 
 ### **Technical Skills**
 <p>
@@ -57,7 +56,6 @@ I’m a **QA Professional** and **Data Enthusiast** with a passion for ensuring 
   <img alt="Machine Learning Basics" src="https://img.shields.io/badge/-Machine%20Learning-4285F4?style=flat-square&logo=machine-learning&logoColor=white" />
 </p>
 
----
 
 ### **Methodologies**
 <p>
