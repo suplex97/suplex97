@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manish Chauhan!
 
 **QA Professional | Data Enthusiast | MSc Student @ Swansea University**  
-ISTQB Certified • Agile | CI/CD • AWS • Microsoft-Centric
+ISTQB Certified with expertise in automation testing, CI/CD, AWS, and machine learning applications.
 
 ## 🎯 What I Do
 - **Quality Assurance**: Developing and executing test plans, automating workflows, and ensuring software reliability.
