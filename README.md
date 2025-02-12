@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Manish Chauhan!
 
-I’m a **QA Professional** and **Data Enthusiast** with a passion for ensuring high-quality software through functional, API, and automation testing. I hold an **ISTQB Certification** and have expertise in Agile methodologies, CI/CD pipelines, AWS, and Microsoft-centric environments. Currently pursuing my **MSc in Advanced Computer Science** at Swansea University, I’m focused on leveraging machine learning and data-driven solutions to solve real-world problems.
-
----
+**QA Professional | Data Enthusiast | MSc Student @ Swansea University**  
+ISTQB Certified • Agile | CI/CD • AWS • Microsoft-Centric
 
 ## 🎯 What I Do
 - **Quality Assurance**: Developing and executing test plans, automating workflows, and ensuring software reliability.
@@ -10,7 +9,6 @@ I’m a **QA Professional** and **Data Enthusiast** with a passion for ensuring 
 - **Data Analysis & Visualization**: Extracting insights from complex datasets and presenting them effectively.
 - **DevOps Practices**: Streamlining deployment processes with tools like Jenkins, AWS, and Git.
 
----
 
 ## 💻 Skills
 
@@ -124,9 +122,6 @@ Feel free to reach out for collaborations, questions, or just to say hi!
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/manishchauhan12304/)  
+[![GitHub](https://github.com/suplex97)
 
----
-
-This README is structured to be both professional and engaging, while also being easy to navigate. It emphasizes your strengths, achievements, and projects in a way that aligns with modern GitHub profile trends. Let me know if you’d like further tweaks! 🚀
